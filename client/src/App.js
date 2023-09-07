@@ -8,7 +8,7 @@ function App() {
       {/* Form Component */}
       <Form />
       {/* All users list */}
-      <UsersList />
+   
     </div>
   );
 }
